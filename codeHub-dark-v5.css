@@ -461,13 +461,14 @@ footer i {
   height: 50px;
   background: #21262d;
   border: 1px solid #30363d;
-  border-radius: 8px;
+  border-radius: 0 0 8px 8px;
   text-align: center;
   margin-right: 12px;
-  font-size: 24px;
+  font-size: 30px;
 }
 .media-icon i {
   padding: 12px 0;
+  display: inline-block;
 }
 .media-title, a.media-titleher {
   margin: 0;

@@ -116,7 +116,7 @@
     }
 
     .header2::after,
-    .header3::after {
+    header::after {
         content: "";
         display: block;
         width: 100%;

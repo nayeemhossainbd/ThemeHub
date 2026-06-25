@@ -696,7 +696,7 @@ color: #c9d1d9;
 }
 .form textarea,
 textarea[name="message_text"] {
-min-height: 80px;
+min-height: 180px;
 }
 .form select:focus,
 .form textarea:focus,
